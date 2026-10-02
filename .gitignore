@@ -1,0 +1,8 @@
+vendor/
+.env
+!.env.example
+backups/
+*.log
+.DS_Store
+.idea/
+.vscode/
